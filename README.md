@@ -47,8 +47,8 @@ A solução detecta anomalias em sensores industriais, prediz falhas com um mode
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/SEU_USUARIO/tcc-manutencao-preditiva.git
-cd tcc-manutencao-preditiva
+git clone https://github.com/ademarfs/tcc_erp_ia.git
+cd tcc_erp_ia
 
 # 2. Instalar dependências
 pip install -r requirements.txt
